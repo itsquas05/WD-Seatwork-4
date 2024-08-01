@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('/pages/hero5/assets/img/killjoy.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.hero-section {
+    color: white;
+    padding: 180px 0;
+    text-align: left;
+}
+.container{
+    width: 100%;
+}
+.hero-section h1 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+}
+
+.feature-icon {
+    font-size: 2rem;
+    color: #007bff;
+}
+
+.feature-card {
+    padding: 30px;
+    border-radius: 8px;
+    transition: transform 0.3s;
+}
+
+.feature-card:hover {
+    transform: scale(1.05);
+}
+
+.footer {
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.8);
+}
+.footer a {
+    color: #6c757d;
+}
+
+
+.navbar-nav .nav-link, .navbar-brand {
+    color: #ffffff;
+  }
+  
+.navbar-nav .nav-link:hover,.navbar-brand:hover  {
+    color: #cccccc; 
+}
+.content{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.title{
+    font-family: "Alegreya", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 10rem;
+    color: rgb(236, 254, 255);
+    letter-spacing: 1rem;
+    margin: 0;
+            padding: 0;
+}
+span{
+    font-size: 1.5rem;
+}
+hr{
+    border: 3px solid white;
+  border-radius: 5px;
+}
