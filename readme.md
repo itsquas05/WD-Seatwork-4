@@ -58,14 +58,10 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project?
+
 - The project is a website that features different design layouts inspired by Valorant agents.
-- Whats the purpose?
 - The purpose of the project is to use the skills in HTML, CSS, and JavaScript to showcase different web layout designs.
-- What are key components?
 - The key components of the project are the: hero sections, and different designs.
-- What technology used and how it is used?
 - The project uses HTML for structure, CSS for styling, and JavaScript. The following were used to make the design of the website look better and more interactive.
 
 ### Key Components
